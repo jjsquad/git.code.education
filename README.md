@@ -13,4 +13,4 @@ git commit -m "Primeiro commit" -> atualizando com o primeiro commit
 
 git remote add -> para adicionar a origem remota
 
-got push -> para enviar os arquivos ao repositório remoto
+git push -> para enviar os arquivos ao repositório remoto
